@@ -31,7 +31,7 @@ public class DownloadService extends IntentService {
     public static final String FILENAME = "filename";
     public static final String FILEPATH = "filepath";
     public static final String RESULT = "result";
-    public static final String NOTIFICATION = "com.vogella.android.service.receiver";
+    public static final String NOTIFICATION = "it.matteocorradin.service.receiver";
 
     public DownloadService() {
         super("DownloadService");
